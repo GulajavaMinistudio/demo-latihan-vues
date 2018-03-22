@@ -1,0 +1,2 @@
+webpackJsonp([38],{"4jE0":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h3",[this._v("Latihan Kelas Tinggi atau Kelas Atas")]),this._v(" "),t("div",[t("router-view")],1)])},staticRenderFns:[]};var i=n("VU/8")({name:"LatihanTinggiHomeComponent",data:function(){return{}}},a,!1,function(e){n("Ybek")},"data-v-0b38d5dc",null);t.default=i.exports},Ybek:function(e,t){}});
+//# sourceMappingURL=38.bb82e5590b3bc4d9cc1b.js.map
